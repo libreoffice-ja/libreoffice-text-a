@@ -13,27 +13,27 @@
 
 ### 一括ダウンロード
 
-<https://github.com/nogajun/libreoffice-ashisuto/releases>
+<https://github.com/nogajun/libreoffice-text-a/releases>
 
 ### 入門コース
 
-* 研修テキスト（PDF）: [LibreOffice_Introduction.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Introduction.pdf)
-* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Introduction.zip](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Introduction.zip)
+* 研修テキスト（PDF）: [LibreOffice_Introduction.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Introduction.pdf)
+* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Introduction.zip](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Introduction.zip)
 
 ### スタンダードコース
 
-* 研修テキスト（PDF）: [LibreOffice_Standard.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Standard.pdf)
-* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Standard.zip](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Standard.zip)
+* 研修テキスト（PDF）: [LibreOffice_Standard.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Standard.pdf)
+* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Standard.zip](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Standard.zip)
 
 ### アドバンストコース
 
-* 研修テキスト（PDF）: [LibreOffice_Advanced.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Advanced.pdf)
-* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Advanced.zip](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Advanced.zip)
+* 研修テキスト（PDF）: [LibreOffice_Advanced.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Advanced.pdf)
+* 研修テキストセット（ODF、自習用サンプルファイル付き）: [LibreOffice_Advanced.zip](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Advanced.zip)
 
 ### 参考資料
 
-* 参考資料のみ（PDF）: [LibreOffice_Tips.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Tips.pdf)
-* 参考資料セット（ODF、自習用サンプルファイル付き）: [LibreOffice_Tips.zip](https://raw.githubusercontent.com/nogajun/libreoffice-ashisuto/master/LibreOffice_Tips.zip)
+* 参考資料のみ（PDF）: [LibreOffice_Tips.pdf](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Tips.pdf)
+* 参考資料セット（ODF、自習用サンプルファイル付き）: [LibreOffice_Tips.zip](https://raw.githubusercontent.com/nogajun/libreoffice-text-a/master/LibreOffice_Tips.zip)
 
 
 ライセンス
