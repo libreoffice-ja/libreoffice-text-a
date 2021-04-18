@@ -13,7 +13,7 @@
 
 ### 一括ダウンロード
 
-<https://github.com/nogajun/libreoffice-text-a/releases>
+<https://github.com/libreoffice-ja/libreoffice-text-a/releases/tag/v0.20160906>
 
 ### 入門コース
 
